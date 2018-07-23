@@ -11,3 +11,32 @@ body {
 #Bob{
     color:darkblue
 }
+body{
+    font-family: 'Chela One', cursive;
+}
+#Danny{
+    font-family: 'Merienda', cursive;
+
+}
+@keyframes appear{
+    0% {
+        transform: scale(0.1);
+        opacity: 0;
+    }
+    60%{
+        transform:scale(1);
+        opacity: 1;
+    }
+}
+
+p{
+    animation-name: appear;
+    animation-duration: 5s;
+    font-size: 20px;
+}
+#danny{
+    opacity: 0;
+}
+#bob:hover{
+    opacity: 1;
+}
