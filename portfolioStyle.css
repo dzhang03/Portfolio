@@ -14,6 +14,7 @@ body {
 body{
     font-family: 'Chela One', cursive;
 }
+/* TODO:  You don't need to use a new selector for every property, you can combine all your #Danny properties together in the same {} curly braces */
 #Danny{
     font-family: 'Merienda', cursive;
 
