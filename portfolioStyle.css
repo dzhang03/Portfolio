@@ -2,8 +2,12 @@ body {
     background: lightsalmon;
 }
 
-#Danny {
+#Danny{
     color:darkblue
+}
+#Danny{
+    font-family: cursive, Merienda
+   
 }
 #Issac{
     color:darkblue
@@ -13,10 +17,6 @@ body {
 }
 body{
     font-family: 'Chela One', cursive;
-}
-#Danny{
-    font-family: 'Merienda', cursive;
-
 }
 @keyframes appear{
     0% {
