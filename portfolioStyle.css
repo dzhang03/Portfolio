@@ -2,13 +2,11 @@ body {
     background: lightsalmon;
 }
 
-#Danny{
-    color:darkblue
+#Danny {
+    color:darkblue;
+    font-family: 'Merienda', cursive;
 }
-#Danny{
-    font-family: "Merienda", cursive;
-   
-}
+
 #Issac{
     color:darkblue
 }
@@ -18,6 +16,7 @@ body {
 body{
     font-family: 'Chela One', cursive;
 }
+/* TODO:  You don't need to use a new selector for every property, you can combine all your #Danny properties together in the same {} curly braces */
 @keyframes appear{
     0% {
         transform: scale(0.1);
