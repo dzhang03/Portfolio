@@ -1,0 +1,38 @@
+Portfolio final grade: 78
+
+Comments:  This is a decent start.  You tried to use most of what we covered in class, although placement of some of your code in inappropriate places can cause unexpected behavior in different browsers.  Pay attention to where you tags go! 
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 84
+(50% of overall grade)
+
+Points deducted for these items:
+    -2 About link on About page is broken/unneeded.
+    -2 Orphaned /div tag in About page.
+    -6 Navigation links in the <head> section on the about page.
+    -2 Stylesheet link included in the <body> section on the about page.
+    -4 extraneous Opacity properties in the CSS file.
+
+########
+
+Design and Accessibility:  Does it incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 95
+(25% of overall grade)
+
+Points deducted for these items:
+    -5 font/color choice for paragraphs is difficult to read.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 49
+(25% of overall grade)
+
+Points deducted for these items:
+    -50 Media queries / mobile responsive design not included
+    -1 Hover effect doesn't work
