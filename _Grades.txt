@@ -1,4 +1,4 @@
-Portfolio final grade: 78
+Portfolio final grade: 91
 
 Comments:  This is a decent start.  You tried to use most of what we covered in class, although placement of some of your code in inappropriate places can cause unexpected behavior in different browsers.  Pay attention to where you tags go! 
 
@@ -30,9 +30,8 @@ Points deducted for these items:
 
 Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
 
-Grade: 49
+Grade: 99
 (25% of overall grade)
 
 Points deducted for these items:
-    -50 Media queries / mobile responsive design not included
     -1 Hover effect doesn't work
